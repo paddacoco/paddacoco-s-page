@@ -6,7 +6,7 @@ AI 모델을 실제 소프트웨어로 연결하는 **AI + Software Engineer**�
 
 ## Highlights
 
-- **LG Aimers 9기 Phase 3 Finalist** — 최종 103명
+- **LG Aimers 9기 Phase 3 Finalist** — 최종 점수 **70.3148032035** · **최종 20위**
 - Phase 2 최종 **BSS 1,182.95**
 - KBO 투구 제구 성공 확률 예측 프로젝트
 - Selective Ensemble
@@ -19,7 +19,7 @@ AI 모델을 실제 소프트웨어로 연결하는 **AI + Software Engineer**�
 
 ### KBO 투구 제구 성공 확률 예측
 
-시계열·연도 분리를 고려한 검증을 바탕으로 서로 다른 예측 특성을 가진 모델을 선택적으로 결합했습니다.
+시계열·연도 분리를 고려한 검증을 바탕으로 서로 다른 예측 특성을 가진 모델을 선택적으로 결합했습니다. Phase 3 최종 점수는 **70.3148032035**, 최종 순위는 **20위**입니다.
 
 Fallback XGBoost를 특정 조건에 적용하고, batch-dependent feature를 train-frozen statistic으로 수정했으며, single-row·shuffle prediction parity를 확인했습니다.
 
